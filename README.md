@@ -1,6 +1,6 @@
-# Cosmic Desktop Themes
+# COSMIC Desktop Themes
 
-A collection of beautiful themes to customize and enhance the Cosmic Desktop Environment.
+A collection of beautiful themes to customize and enhance the COSMIC Desktop Environment.
 
 Note: This repository is not affiliated with the official COSMIC Desktop project.
 
@@ -33,33 +33,41 @@ Note: This repository is not affiliated with the official COSMIC Desktop project
 |------------------|-----------------|
 | ![cosmic-crimson.png](screenshots/cosmic-crimson.png) | ![flaming-ruby.png](screenshots/flaming-ruby.png) |
 
-| **Graphite Glow Dark** | **Hot Iron** |
+| **Forgejo Dark** | **Gitea Dark** |
 |------------------|-----------------|
-| ![graphite-glow.png](screenshots/graphite-glow-dark.png) | ![hot-iron.png](screenshots/hot-iron.png) |
+| ![forgejo-dark.png](screenshots/forgejo-dark.png) | ![gitea-dark.png](screenshots/gitea-dark.png) |
 
-| **Lunar Eclipse** | **Mint Dark** |
+| **GNOME Cosmic Dark** | **Graphite Glow Dark** |
 |------------------|-----------------|
-| ![lunar-eclipse.png](screenshots/lunar-eclipse.png) | ![mint-dark.png](screenshots/mint-dark.png) |
+| ![gnome-cosmic-dark.png](screenshots/gnome-cosmic-dark.png) | ![graphite-glow.png](screenshots/graphite-glow-dark.png) |
 
-| **Monokai Dark** | **Obsidian** |
+| **Hot Iron** | **Lunar Eclipse** |
 |------------------|-----------------|
-| ![monokai.png](screenshots/monokai-dark.png) | ![obsidian.png](screenshots/obsidian.png) |
+| ![hot-iron.png](screenshots/hot-iron.png) | ![lunar-eclipse.png](screenshots/lunar-eclipse.png) |
+
+| **Mint Dark** | **Monokai Dark** |
+|------------------|-----------------|
+| ![mint-dark.png](screenshots/mint-dark.png) | ![monokai.png](screenshots/monokai-dark.png) |
+
+| **Obsidian** | **Obsidian Ember Dark** |
+|------------------|-----------------|
+| ![obsidian.png](screenshots/obsidian.png) | ![obsidian-ember-dark.png](screenshots/obsidian-ember-dark.png) |
 
 | **Ocean Mist** | **Omnitrix** |
 |------------------|-----------------|
 | ![ocean-mist.png](screenshots/ocean-mist.png) | ![omnitrix.png](screenshots/omnitrix.png) |
 
-| **Shadcn Dark** | **Steam Client** |
+| **Shadcn Dark** | **Slate Core** |
 |------------------|-----------------|
-| ![shadcn.png](screenshots/shadcn-dark.png) | ![steam-client.png](screenshots/steam-client.png) |
+| ![shadcn.png](screenshots/shadcn-dark.png) | ![slate-core.png](screenshots/slate-core.png) |
 
-| **Sunset Ash Dark** | **Ubuntu Classic Dark** |
+| **Steam Client** | **Sunset Ash Dark** |
 |------------------|-----------------|
-| ![sunset-ash.png](screenshots/sunset-ash-dark.png) | ![ubuntu-classic-dark.png](screenshots/ubuntu-classic-dark.png) |
+| ![steam-client.png](screenshots/steam-client.png) | ![sunset-ash.png](screenshots/sunset-ash-dark.png) |
 
-| **Void Dream** |
-|-----------------|
-| ![void-dream.png](screenshots/void-dream.png) |
+| **Ubuntu Classic Dark** | **Void Dream** |
+|------------------|-----------------|
+| ![ubuntu-classic-dark.png](screenshots/ubuntu-classic-dark.png) | ![void-dream.png](screenshots/void-dream.png) |
 
 
 ## Light Themes
@@ -68,24 +76,32 @@ Note: This repository is not affiliated with the official COSMIC Desktop project
 |------------------|-----------------|
 | ![accent-light.png](screenshots/accent-light.png) | ![caramel-light.png](screenshots/caramel-light.png) |
 
-| **Graphite Glow Light** | **Lemon Grass** |
-|-------------------------|----------------|
-| ![graphite-glow-light.png](screenshots/graphite-glow-light.png) | ![lemon-grass.png](screenshots/lemon-grass.png) |
+| **Forgejo Light** | **Gitea Light** |
+|------------------|-----------------|
+| ![forgejo-light.png](screenshots/forgejo-light.png) | ![gitea-light.png](screenshots/gitea-light.png) |
 
-| **Maroon Mirage** | **Mint Light** |
-|-------------------|---------------|
-| ![maroon-mirage.png](screenshots/maroon-mirage.png) | ![mint-light.png](screenshots/mint-light.png) |
+| **GNOME Cosmic Light** | **Graphite Glow Light** |
+|-------------------------|------------------------|
+| ![gnome-cosmic-light.png](screenshots/gnome-cosmic-light.png) | ![graphite-glow-light.png](screenshots/graphite-glow-light.png) |
 
-| **Monokai Light** | **Royal Orchid** |
-|-------------------|-----------------|
-| ![monokai-light.png](screenshots/monokai-light.png) | ![royal-orchid.png](screenshots/royal-orchid.png) |
+| **Lemon Grass** | **Maroon Mirage** |
+|----------------|-------------------|
+| ![lemon-grass.png](screenshots/lemon-grass.png) | ![maroon-mirage.png](screenshots/maroon-mirage.png) |
+
+| **Mint Light** | **Monokai Light** |
+|----------------|-------------------|
+| ![mint-light.png](screenshots/mint-light.png) | ![monokai-light.png](screenshots/monokai-light.png) |
+
+| **Obsidian Ember Light** | **Royal Orchid** |
+|--------------------------|-----------------|
+| ![obsidian-ember-light.png](screenshots/obsidian-ember-light.png) | ![royal-orchid.png](screenshots/royal-orchid.png) |
 
 | **Shadcn Light** | **Sunset Ash Light** |
 |------------------|----------------------|
 | ![shadcn-light.png](screenshots/shadcn-light.png) | ![sunset-ash-light.png](screenshots/sunset-ash-light.png) |
 
 | **Ubuntu Classic Light** | **Ubuntu Light** |
-|--------------------|-----------------|
+|--------------------------|-----------------|
 | ![ubuntu-classic.png](screenshots/ubuntu-classic.png) | ![ubuntu-light.png](screenshots/ubuntu-light.png) |
 
 ### How to Apply a Theme
@@ -93,4 +109,4 @@ Note: This repository is not affiliated with the official COSMIC Desktop project
 2. Navigate to Desktop > Appearance.
 3. Import desired theme file. 
 
-Enjoy customizing your desktop with themes made for Cosmic!
+Enjoy customizing your desktop with themes made for COSMIC!
