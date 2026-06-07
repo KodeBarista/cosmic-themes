@@ -37,7 +37,7 @@ Note: This repository is not affiliated with the official COSMIC Desktop project
 |------------------|-----------------|
 | ![forgejo-dark.png](screenshots/forgejo-dark.png) | ![gitea-dark.png](screenshots/gitea-dark.png) |
 
-| **GNOME Cosmic Dark** | **Graphite Glow Dark** |
+| **GNOME COSMIC Dark** | **Graphite Glow Dark** |
 |------------------|-----------------|
 | ![gnome-cosmic-dark.png](screenshots/gnome-cosmic-dark.png) | ![graphite-glow.png](screenshots/graphite-glow-dark.png) |
 
@@ -80,7 +80,7 @@ Note: This repository is not affiliated with the official COSMIC Desktop project
 |------------------|-----------------|
 | ![forgejo-light.png](screenshots/forgejo-light.png) | ![gitea-light.png](screenshots/gitea-light.png) |
 
-| **GNOME Cosmic Light** | **Graphite Glow Light** |
+| **GNOME COSMIC Light** | **Graphite Glow Light** |
 |-------------------------|------------------------|
 | ![gnome-cosmic-light.png](screenshots/gnome-cosmic-light.png) | ![graphite-glow-light.png](screenshots/graphite-glow-light.png) |
 
